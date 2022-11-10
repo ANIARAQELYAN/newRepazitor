@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    list-style:none;
+
+}
+.top-box{
+    background-color: #1567a9;
+    height: 100%;
+}
+a{
+    color:white;
+    font-size: 18px;
+    text-decoration: none;
+}
+.glavni-mijin{
+    display: flex;
+   justify-content: space-around;
+    margin-top: 10px;
+   padding: 55px 55px;
+}
+.main-karevor{
+    display: flex;
+    flex-direction: column;
+    max-width: 30%;
+}
+.qaxaqakanutyun{
+    position: absolute;
+    background-color: #1567a9 ;
+}
+.nkar-div{
+    display: flex;
+}
+.ul-class{
+    display: flex;
+    flex-direction: column;
+}
+li{
+    margin-top: 10px;
+}
+.main-iradarcutyun{
+    display: flex;
+    flex-direction: column;
+    max-width: 40%;
+}
+.section-lrahos{
+    display: flex;
+    flex-direction: column;
+    max-width: 30%;
+}
+h2{
+    max-width: 60%;
+}
+.mec-h2{
+    max-width: 90%;
+}
+.an{
+    color: #1567a9;
+}
+.mm{
+    color: #1567a9;
+    margin-top: 15px;
+}
+.a-class{
+    display: flex;
+    flex-direction: column;
+}
+.div-gic{
+    height: 2px;
+    background-color:#a0a0a0;
+    margin-top: 15px;
+    max-width: 90%;
+}
+.lrahos-li{
+    display: flex;
+    flex-direction: column;
+}
+a:hover{
+    color:rgba(255,255,255,.9);
+}
